@@ -16,7 +16,7 @@
   - MISO <--> 12
   - VCC <--> 5V
   - GND <--> GND
-- Audio Amplifier:
+- Audio Amplifier: <br>
  IN:
   - GND <--> GND (on the Arduino)
   - GND <--> GND (on the power supply)
