@@ -1,9 +1,12 @@
 # speaker-sd
 ## Arduino program to play audio files with a speaker
+
+# **THIS USES A VERY OUTDATED LIBRARY AND DOESN'T SUPPORT MORE THAN 16kHz, SEE [sabinM1/Seraphim](https://github.com/sabinM1/Seraphim) FOR AN UPDATED VERSION**
+
 ### Requirements:
  - [LM386 Audio Amplifier](https://www.optimusdigital.ro/en/audio-amplifiers/45-lm385-audio-amplifier.html)
  - [MicroSD Card Module](https://www.optimusdigital.ro/en/memories/1516-microsd-card-slot-module.html)
- - ≥32 GB MicroSD Card <br>
+ - ≤32 GB MicroSD Card <br>
  - 5W 4 Ω Speaker
  - Arduino board (I've used an Arduino Nano) <br>
  - 5V - 12V power supply
